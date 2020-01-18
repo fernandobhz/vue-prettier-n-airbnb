@@ -1,4 +1,4 @@
-# front
+# Vue.js with prettier and airbnb
 
 ## Project setup
 ```
